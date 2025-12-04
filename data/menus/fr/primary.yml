@@ -15,7 +15,7 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Expositions
+- title: Projections
   target: "/expositions/"
   kind: page
   new_tab: false
