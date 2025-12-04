@@ -22,7 +22,7 @@ items:
   children: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
-- title: Personnes
+- title: Membres
   target: "/personnes/"
   kind: page
   new_tab: false
