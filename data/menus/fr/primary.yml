@@ -15,11 +15,21 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Groupes de travail
+- title: Nos activités
   target: "/gt/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Collège solidaire
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+  - title: Annuaire des membres
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Membres
