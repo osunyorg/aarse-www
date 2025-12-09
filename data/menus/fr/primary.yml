@@ -34,13 +34,6 @@ items:
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
-  - title: Le collège solidaire
-    target: "/personnes/college-solidaire/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/personnes/college-solidaire"
-    file: content/fr/pages/personnes/college-solidaire/_index.html
   - title: Devenir membre
     target: "/personnes/devenir-membre/"
     kind: page
@@ -48,6 +41,13 @@ items:
     children: []
     path: "/pages/personnes/devenir-membre"
     file: content/fr/pages/personnes/devenir-membre/_index.html
+  - title: Le collège solidaire
+    target: "/personnes/college-solidaire/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/personnes/college-solidaire"
+    file: content/fr/pages/personnes/college-solidaire/_index.html
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Adhérer
