@@ -41,7 +41,7 @@ items:
     file: content/fr/persons/_index.html
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Adhérer
+- title: Devenir membre
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
   kind: url
   new_tab: true
