@@ -19,24 +19,26 @@ items:
   target: "/gt/"
   kind: page
   new_tab: false
-  children:
-  - title: Collège solidaire
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
-  - title: Annuaire des membres
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
+  children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Membres
   target: "/personnes/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Annuaire des membres
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+  - title: Le collège solidaire
+    target: "/personnes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/persons"
+    file: content/fr/persons/_index.html
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Adhérer
