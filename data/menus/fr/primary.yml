@@ -2,57 +2,76 @@
 title: Menu principal
 items:
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Nos activités
+  slug: nos-activites
   target: "/gt/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Membres
+  slug: membres
   target: "/personnes/"
   kind: page
   new_tab: false
   children:
   - title: Annuaire des membres
+    slug: annuaire-des-membres
     target: "/personnes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Devenir membre
+    slug: devenir-membre
     target: "/personnes/devenir-membre/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/personnes/devenir-membre"
     file: content/fr/pages/personnes/devenir-membre/_index.html
   - title: Le collège solidaire
+    slug: le-college-solidaire
     target: "/personnes/college-solidaire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/personnes/college-solidaire"
     file: content/fr/pages/personnes/college-solidaire/_index.html
+  descendants_targets:
+  - "/personnes/"
+  - "/personnes/college-solidaire/"
+  - "/personnes/devenir-membre/"
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Adhérer
+  slug: adherer
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
