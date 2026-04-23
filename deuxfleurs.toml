@@ -13,3 +13,48 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/2026-politique-et-ecosysteme/"
+to = "/gt/2026-politique-et-ecosysteme/"
+
+[[redirects]]
+from = "/projets/"
+to = "/gt/"
+
+[[redirects]]
+from = "/expositions/"
+to = "/projections/"
+
+[[redirects]]
+from = "/personnes/aarse/"
+to = "/personnes/elodie-boin-zanchi/"
+
+[[redirects]]
+from = "/2026-chantier-cinema/"
+to = "/gt/2026-chantier-cinema/"
+
+[[redirects]]
+from = "/agenda/2026/adieu-sauvage/"
+to = "/agenda/2026/vraidevrai-marseille-2026/"
+
+[[redirects]]
+from = "/personnes/aarse/actualites/"
+to = "/personnes/elodie-boin-zanchi/actualites/"
+
+[[redirects]]
+from = "/expositions/archives-expositions/"
+to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/agenda/2026/adieu-sauvage/projection-debat-againt-the-tide/"
+to = "/agenda/2026/vraidevrai-marseille-2026/varado/"
+
+[[redirects]]
+from = "/ceci-est-un-test/"
+to = "/aarse-06/"
+
+[[redirects]]
+from = "/archives-expositions/"
+to = "/projections/archives-expositions/"
+
