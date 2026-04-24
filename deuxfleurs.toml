@@ -15,46 +15,46 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/2026-politique-et-ecosysteme/"
+from = "/2026-politique-et-ecosysteme/index.html"
 to = "/gt/2026-politique-et-ecosysteme/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/gt/"
 
 [[redirects]]
-from = "/expositions/"
+from = "/expositions/index.html"
 to = "/projections/"
 
 [[redirects]]
-from = "/personnes/aarse/"
+from = "/personnes/aarse/index.html"
 to = "/personnes/elodie-boin-zanchi/"
 
 [[redirects]]
-from = "/2026-chantier-cinema/"
+from = "/2026-chantier-cinema/index.html"
 to = "/gt/2026-chantier-cinema/"
 
 [[redirects]]
-from = "/agenda/2026/adieu-sauvage/"
+from = "/agenda/2026/adieu-sauvage/index.html"
 to = "/agenda/2026/vraidevrai-marseille-2026/"
 
 [[redirects]]
-from = "/personnes/aarse/actualites/"
+from = "/personnes/aarse/actualites/index.html"
 to = "/personnes/elodie-boin-zanchi/actualites/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/"
+from = "/expositions/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
 
 [[redirects]]
-from = "/agenda/2026/adieu-sauvage/projection-debat-againt-the-tide/"
+from = "/agenda/2026/adieu-sauvage/projection-debat-againt-the-tide/index.html"
 to = "/agenda/2026/vraidevrai-marseille-2026/varado/"
 
 [[redirects]]
-from = "/ceci-est-un-test/"
+from = "/ceci-est-un-test/index.html"
 to = "/aarse-06/"
 
 [[redirects]]
-from = "/archives-expositions/"
+from = "/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
 
