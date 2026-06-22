@@ -23,6 +23,10 @@ from = "/projets/index.html"
 to = "/gt/"
 
 [[redirects]]
+from = "/gt/aarse-13/index.html"
+to = "/gt/localisation/aarse-13/"
+
+[[redirects]]
 from = "/expositions/index.html"
 to = "/projections/"
 
@@ -45,6 +49,10 @@ to = "/personnes/elodie-boin-zanchi/actualites/"
 [[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/gt/aarse-06/index.html"
+to = "/gt/localisation/aarse-06/"
 
 [[redirects]]
 from = "/agenda/2026/adieu-sauvage/projection-debat-againt-the-tide/index.html"
