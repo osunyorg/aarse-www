@@ -1,7 +1,29 @@
 default:
 contents_reading_time:
-  seconds: 0
+  seconds: 3
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: call_to_action
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+      layout: accent_background
+
+
+      buttons:
+        - 
+          title: >-
+            S'inscrire à la newsletter
+          url: >-
+            https://1e3b5cbb.sibforms.com/serve/MUIFAJOhKVuOBWUwTZ-y6_9q-kIAGv146cHgifa5w3l495QiCmRblHa4aQTUgtnVzplttgkij9W3xJKtcEpJDTUKL2cM2MM9XHXWdkbb2MqCgJ4_hPdWMA0__ti3L--pYwOat_qBdd0eJS38pN-gDcGyt2xbN1k9i_u9obkwsRXMvxUNRvRYcLqPLGLxlzhu8WJvK0pzooNPERe8
+          target_blank: true
+
+
 

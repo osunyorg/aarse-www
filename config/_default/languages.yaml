@@ -9,6 +9,12 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@aarse.fr
+          value: >-
+            mailto:contact@aarse.fr
 
   taxonomies:
     administrator: administrators
