@@ -1,26 +1,35 @@
 default:
 contents_reading_time:
-  seconds: 3
+  seconds: 6
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: call_to_action
-
-
+    title: >-
+      La Lettre de l'Aarse
+    slug: >-
+      la-lettre-de-l-aarse
     ranks:
       base: 2
+      self: 2
     top:
-      active: false
-
+      active: true
+      title: 
+        value: >-
+          La Lettre de l'Aarse
+        heading: 2
+      description: >-
+        <p>Recevez nos actualités directement dans votre boîte mail.</p>
     data:
       layout: accent_background
-
+      text: >-
+        <p>Recevez nos actualités directement dans votre boîte mail.</p>
 
       buttons:
         - 
           title: >-
-            S'inscrire à la newsletter
+            S'abonner à la newsletter
           url: >-
             https://1e3b5cbb.sibforms.com/serve/MUIFAJOhKVuOBWUwTZ-y6_9q-kIAGv146cHgifa5w3l495QiCmRblHa4aQTUgtnVzplttgkij9W3xJKtcEpJDTUKL2cM2MM9XHXWdkbb2MqCgJ4_hPdWMA0__ti3L--pYwOat_qBdd0eJS38pN-gDcGyt2xbN1k9i_u9obkwsRXMvxUNRvRYcLqPLGLxlzhu8WJvK0pzooNPERe8
           target_blank: true
