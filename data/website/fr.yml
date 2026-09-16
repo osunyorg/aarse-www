@@ -7,9 +7,9 @@ contents:
   - kind: block
     template: call_to_action
     title: >-
-      La Lettre de l'Aarse
+      Restez informé·es
     slug: >-
-      la-lettre-de-l-aarse
+      restez-informe-es
     ranks:
       base: 2
       self: 2
@@ -17,7 +17,7 @@ contents:
       active: true
       title: 
         value: >-
-          La Lettre de l'Aarse
+          Restez informé·es
         heading: 2
       description: >-
         <p>Recevez nos actualités ou celles de la profession directement dans votre boîte mail.</p>
@@ -29,13 +29,13 @@ contents:
       buttons:
         - 
           title: >-
-            S'abonner à notre newsletter
+            S'abonner à la Lettre de l'Aarse
           url: >-
             https://1e3b5cbb.sibforms.com/serve/MUIFAJOhKVuOBWUwTZ-y6_9q-kIAGv146cHgifa5w3l495QiCmRblHa4aQTUgtnVzplttgkij9W3xJKtcEpJDTUKL2cM2MM9XHXWdkbb2MqCgJ4_hPdWMA0__ti3L--pYwOat_qBdd0eJS38pN-gDcGyt2xbN1k9i_u9obkwsRXMvxUNRvRYcLqPLGLxlzhu8WJvK0pzooNPERe8
           target_blank: true
         - 
           title: >-
-            S'abonner à la liste de diffusion du réseau Aarse
+            S'abonner à la liste de diffusion du réseau
           url: >-
             https://framagroupes.org/sympa/subscribe/aarse-sud
           target_blank: true
