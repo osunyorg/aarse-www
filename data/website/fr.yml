@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 12
+  seconds: 13
   text: >-
     moins d'une minute
 contents:
@@ -20,11 +20,11 @@ contents:
           Restez informé·es
         heading: 2
       description: >-
-        <p>Recevez nos actualités ou celles de la profession directement dans votre boîte mail.</p>
+        <p>Pour recevoir nos actualités ou celles de la profession directement dans votre boîte mail.</p>
     data:
       layout: accent_background
       text: >-
-        <p>Recevez nos actualités ou celles de la profession directement dans votre boîte mail.</p>
+        <p>Pour recevoir nos actualités ou celles de la profession directement dans votre boîte mail.</p>
 
       buttons:
         - 
@@ -35,9 +35,9 @@ contents:
           target_blank: true
         - 
           title: >-
-            Pensez aussi à la liste de diffusion du réseau aarse-sud
+            Il y a aussi la liste de diffusion du réseau aarse-sud
           url: >-
-            https://framagroupes.org/sympa/subscribe/aarse-sud
+            https://www.aarse.osuny.site/aarse-sud-la-liste-de-diffusion-du-reseau/
           target_blank: true
 
 
