@@ -43,6 +43,10 @@ from = "/agenda/2026/adieu-sauvage/index.html"
 to = "/agenda/2026/vraidevrai-marseille-2026/"
 
 [[redirects]]
+from = "/agenda/aarse-06/index.html"
+to = "/agenda/localisation/aarse-06/"
+
+[[redirects]]
 from = "/personnes/aarse/actualites/index.html"
 to = "/personnes/elodie-boin-zanchi/actualites/"
 
@@ -65,4 +69,8 @@ to = "/aarse-06/"
 [[redirects]]
 from = "/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/agenda/aarse-13/index.html"
+to = "/agenda/localisation/aarse-13/"
 
