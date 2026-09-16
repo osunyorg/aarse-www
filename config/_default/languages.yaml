@@ -15,6 +15,22 @@ fr:
             contact@aarse.fr
           value: >-
             mailto:contact@aarse.fr
+      social_networks:
+        facebook:
+          label: >-
+            aarsesud
+          value: >-
+            https://www.facebook.com/aarsesud
+        instagram:
+          label: >-
+            aarse_sud
+          value: >-
+            https://instagram.com/aarse_sud
+        mastodon:
+          label: >-
+            mastodon.social/@aarse_sud
+          value: >-
+            https://mastodon.social/@aarse_sud
 
   taxonomies:
     administrator: administrators
