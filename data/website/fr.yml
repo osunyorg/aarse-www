@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 6
+  seconds: 12
   text: >-
     moins d'une minute
 contents:
@@ -20,18 +20,24 @@ contents:
           La Lettre de l'Aarse
         heading: 2
       description: >-
-        <p>Recevez nos actualités directement dans votre boîte mail.</p>
+        <p>Recevez nos actualités ou celles de la profession directement dans votre boîte mail.</p>
     data:
       layout: accent_background
       text: >-
-        <p>Recevez nos actualités directement dans votre boîte mail.</p>
+        <p>Recevez nos actualités ou celles de la profession directement dans votre boîte mail.</p>
 
       buttons:
         - 
           title: >-
-            S'abonner à la newsletter
+            S'abonner à notre newsletter
           url: >-
             https://1e3b5cbb.sibforms.com/serve/MUIFAJOhKVuOBWUwTZ-y6_9q-kIAGv146cHgifa5w3l495QiCmRblHa4aQTUgtnVzplttgkij9W3xJKtcEpJDTUKL2cM2MM9XHXWdkbb2MqCgJ4_hPdWMA0__ti3L--pYwOat_qBdd0eJS38pN-gDcGyt2xbN1k9i_u9obkwsRXMvxUNRvRYcLqPLGLxlzhu8WJvK0pzooNPERe8
+          target_blank: true
+        - 
+          title: >-
+            S'abonner à la liste de diffusion du réseau Aarse
+          url: >-
+            https://framagroupes.org/sympa/subscribe/aarse-sud
           target_blank: true
 
 
