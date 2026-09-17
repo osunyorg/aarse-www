@@ -25,7 +25,6 @@ contents:
       layout: accent_background
       text: >-
         <p>Pour recevoir nos actualités ou celles de la profession directement dans votre boîte mail.</p>
-
       buttons:
         - 
           title: >-
