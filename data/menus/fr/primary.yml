@@ -49,15 +49,6 @@ items:
   - "/personnes/devenir-membre/"
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"
