@@ -1,8 +1,17 @@
 ---
 title: Menu principal
 items:
-- title: Nos actions
-  slug: nos-actions
+- title: Actualités
+  slug: actualites
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Groupes de travail
+  slug: groupes-de-travail
   target: "/gt/"
   kind: page
   new_tab: false
@@ -10,8 +19,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Membres
-  slug: membres
+- title: Annuaire des membres
+  slug: annuaire-des-membres
   target: "/personnes/"
   kind: page
   new_tab: false
@@ -49,15 +58,6 @@ items:
   - "/personnes/devenir-membre/"
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Adhérer
   slug: adherer
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
