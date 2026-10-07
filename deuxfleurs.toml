@@ -35,6 +35,10 @@ from = "/personnes/aarse/index.html"
 to = "/personnes/elodie-boin-zanchi/"
 
 [[redirects]]
+from = "/agenda/localisation/aarse-06/index.html"
+to = "/agenda/localisation/nice/"
+
+[[redirects]]
 from = "/2026-chantier-cinema/index.html"
 to = "/gt/2026-chantier-cinema/"
 
@@ -43,8 +47,12 @@ from = "/agenda/2026/adieu-sauvage/index.html"
 to = "/agenda/2026/vraidevrai-marseille-2026/"
 
 [[redirects]]
+from = "/agenda/localisation/aarse-13/index.html"
+to = "/agenda/localisation/marseille/"
+
+[[redirects]]
 from = "/agenda/aarse-06/index.html"
-to = "/agenda/localisation/aarse-06/"
+to = "/agenda/localisation/nice/"
 
 [[redirects]]
 from = "/personnes/aarse/actualites/index.html"
@@ -72,5 +80,5 @@ to = "/projections/archives-expositions/"
 
 [[redirects]]
 from = "/agenda/aarse-13/index.html"
-to = "/agenda/localisation/aarse-13/"
+to = "/agenda/localisation/marseille/"
 
