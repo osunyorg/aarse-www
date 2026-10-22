@@ -1,15 +1,15 @@
 default:
 contents_reading_time:
-  seconds: 13
+  seconds: 24
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: call_to_action
     title: >-
-      Restez informé·es
+      Cinéastes du Sud-Est, rejoignez nous
     slug: >-
-      restez-informe-es
+      cineastes-du-sud-est-rejoignez-nous
     ranks:
       base: 2
       self: 2
@@ -17,26 +17,20 @@ contents:
       active: true
       title: 
         value: >-
-          Restez informé·es
+          Cinéastes du Sud-Est, rejoignez nous
         heading: 2
       description: >-
-        <p>Pour recevoir nos actualités et celles de la profession, directement dans votre boîte mail.</p>
+        <p>  ⊹  Pour rencontrer les auteur·rices réalisateur·rices de votre région<br>⊹  Vous investir dans l'un des groupes de travail existant⊹  Bénéficier d'ateliers, d'actions de formation ou de diffusion⊹  Recevoir et partager les infos de la profession en région Sud (appels à projets, projections, formations...)<br>⊹  Partager vos projets et votre vision de l'association<br>⊹  Devenir correspondant·e dans votre ville ou votre département<br>⊹  Contribuer à donner du poids et des ressources à l'association  </p>
     data:
       layout: accent_background
       text: >-
-        <p>Pour recevoir nos actualités et celles de la profession, directement dans votre boîte mail.</p>
+        <p>  ⊹  Pour rencontrer les auteur·rices réalisateur·rices de votre région<br>⊹  Vous investir dans l'un des groupes de travail existant⊹  Bénéficier d'ateliers, d'actions de formation ou de diffusion⊹  Recevoir et partager les infos de la profession en région Sud (appels à projets, projections, formations...)<br>⊹  Partager vos projets et votre vision de l'association<br>⊹  Devenir correspondant·e dans votre ville ou votre département<br>⊹  Contribuer à donner du poids et des ressources à l'association  </p>
       buttons:
         - 
           title: >-
-            S'abonner à la Lettre de l'Aarse
+            Adhérer
           url: >-
-            https://1e3b5cbb.sibforms.com/serve/MUIFAJOhKVuOBWUwTZ-y6_9q-kIAGv146cHgifa5w3l495QiCmRblHa4aQTUgtnVzplttgkij9W3xJKtcEpJDTUKL2cM2MM9XHXWdkbb2MqCgJ4_hPdWMA0__ti3L--pYwOat_qBdd0eJS38pN-gDcGyt2xbN1k9i_u9obkwsRXMvxUNRvRYcLqPLGLxlzhu8WJvK0pzooNPERe8
-          target_blank: true
-        - 
-          title: >-
-            Il y a aussi la liste de diffusion du réseau aarse-sud
-          url: >-
-            https://www.aarse.osuny.site/aarse-sud-la-liste-de-diffusion-du-reseau/
+            https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
           target_blank: true
 
 
