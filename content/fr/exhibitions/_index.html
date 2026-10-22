@@ -91,20 +91,38 @@ section_taxonomies:
     slug: "localisation"
     path: "/events_categories/localisation"
     categories:
-      - permalink: "/agenda/localisation/marseille/"
-        path: "/events_categories/localisation/marseille"
-        slug: "localisation/marseille"
-        file: "content/fr/events_categories/localisation/marseille/_index.html"
+      - permalink: "/agenda/localisation/aarse-13/"
+        path: "/events_categories/localisation/aarse-13"
+        slug: "localisation/aarse-13"
+        file: "content/fr/events_categories/localisation/aarse-13/_index.html"
         name: >-
-          Marseille
+          Aarse 13
         count: 3
-      - permalink: "/agenda/localisation/nice/"
-        path: "/events_categories/localisation/nice"
-        slug: "localisation/nice"
-        file: "content/fr/events_categories/localisation/nice/_index.html"
+        children:
+          - permalink: "/agenda/localisation/aarse-13/marseille/"
+            path: "/events_categories/localisation/aarse-13/marseille"
+            slug: "localisation/aarse-13/marseille"
+            file: "content/fr/events_categories/localisation/aarse-13/marseille/_index.html"
+            name: >-
+              Marseille
+            count: 3
+
+      - permalink: "/agenda/localisation/aarse-06/"
+        path: "/events_categories/localisation/aarse-06"
+        slug: "localisation/aarse-06"
+        file: "content/fr/events_categories/localisation/aarse-06/_index.html"
         name: >-
-          Nice
+          Aarse 06
         count: 5
+        children:
+          - permalink: "/agenda/localisation/aarse-06/nice/"
+            path: "/events_categories/localisation/aarse-06/nice"
+            slug: "localisation/aarse-06/nice"
+            file: "content/fr/events_categories/localisation/aarse-06/nice/_index.html"
+            name: >-
+              Nice
+            count: 5
+
 
 contents_reading_time:
   seconds: 0
