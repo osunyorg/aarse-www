@@ -9,7 +9,7 @@ breadcrumb_title: >-
 url: "/personnes/"
 slug: "personnes"
 date: 2025-10-31T10:15:46+01:00
-lastmod: 2026-10-22T11:15:51+02:00
+lastmod: 2026-10-22T11:19:33+02:00
 meta:
   hugo:
     permalink: "/personnes/"
@@ -18,7 +18,7 @@ meta:
     slug: "personnes"
   dates:
     created_at: 2025-10-31T10:15:46+01:00
-    updated_at: 2026-10-22T11:15:51+02:00
+    updated_at: 2026-10-22T11:19:33+02:00
     published_at: 2025-10-31T10:15:46+01:00
 search:
   id: "b52b1c91-edaa-4e66-bdaa-5f4c54e19a0e"
@@ -67,20 +67,6 @@ section_taxonomies:
     slug: ""
     path: ""
     categories:
-      - permalink: "/personnes/categories/fiction/"
-        path: "/persons_categories/fiction"
-        slug: "fiction"
-        file: "content/fr/persons_categories/fiction/_index.html"
-        name: >-
-          Fiction
-        count: 1
-      - permalink: "/personnes/categories/documentaire/"
-        path: "/persons_categories/documentaire"
-        slug: "documentaire"
-        file: "content/fr/persons_categories/documentaire/_index.html"
-        name: >-
-          Documentaire
-        count: 3
       - permalink: "/personnes/categories/college-solidaire/"
         path: "/persons_categories/college-solidaire"
         slug: "college-solidaire"
@@ -89,6 +75,37 @@ section_taxonomies:
           Collège solidaire
         count: 5
 
+  - name: >-
+      Adhésion
+    slug: "adhesion"
+    path: "/persons_categories/adhesion"
+    categories:
+      - permalink: "/personnes/categories/adhesion/2027/"
+        path: "/persons_categories/adhesion/2027"
+        slug: "adhesion/2027"
+        file: "content/fr/persons_categories/adhesion/2027/_index.html"
+        name: >-
+          2027
+        count: 1
+  - name: >-
+      Profils
+    slug: "profils"
+    path: "/persons_categories/profils"
+    categories:
+      - permalink: "/personnes/categories/profils/fiction/"
+        path: "/persons_categories/profils/fiction"
+        slug: "profils/fiction"
+        file: "content/fr/persons_categories/profils/fiction/_index.html"
+        name: >-
+          Fiction
+        count: 1
+      - permalink: "/personnes/categories/profils/documentaire/"
+        path: "/persons_categories/profils/documentaire"
+        slug: "profils/documentaire"
+        file: "content/fr/persons_categories/profils/documentaire/_index.html"
+        name: >-
+          Documentaire
+        count: 3
 
 contents_reading_time:
   seconds: 0
@@ -101,12 +118,13 @@ contents:
 
     ranks:
       base: 2
+      children: 2
     top:
       active: false
 
     data:
 
-      layout: grid
+      layout: list
       options:
         image: true
         summary: true
@@ -114,7 +132,12 @@ contents:
         contact: false
 
       persons:
-      quantity: 0
+        - permalink: "/personnes/bernard-boespflug/"
+          path: "/persons/bernard-boespflug"
+          slug: "bernard-boespflug"
+          file: "content/fr/persons/bernard-boespflug.html"
+
+      quantity: 1
 
 
 
