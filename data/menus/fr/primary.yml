@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Annuaire des membres
-  slug: annuaire-des-membres
+- title: Membres
+  slug: membres
   target: "/personnes/"
   kind: page
   new_tab: false
