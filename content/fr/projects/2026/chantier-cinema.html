@@ -15,7 +15,7 @@ meta:
     slug: "chantier-cinema"
   dates:
     created_at: 2025-12-04T12:28:27+01:00
-    updated_at: 2026-10-22T11:57:05+02:00
+    updated_at: 2026-10-22T12:00:55+02:00
     published_at: 2025-12-04T12:28:27+01:00
 search:
   id: "9766ca48-a00c-492e-90e4-612345cd0eb9"
@@ -28,7 +28,7 @@ search:
   summary: >-
     <p> Ateliers réguliers entre adhérent·es pour échanger autour de nos projets de films en cours — à Marseille (13), Nice et Mandelieu-la-Napoule (06).   </p>
   body: >-
-      <p>Nous sommes en train de choisir la prochaine date</p>  <p>  https://tally.so/r/dbWQer <br>Contacter Hervé, référent du GT </p>
+    <p>Agenda </p>  <p>Nous sommes en train de choisir la date du prochain chantier !</p>  <p> Contacter Hervé, référent du GT </p>
 
 year: 2026
 date: 2026-01-01
@@ -93,12 +93,19 @@ contents_reading_time:
 contents:
   - kind: block
     template: agenda
-
-
+    title: >-
+      Agenda
+    slug: >-
+      agenda
     ranks:
       base: 2
+      self: 2
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Agenda
+        heading: 2
 
     data:
       mode: selection
@@ -117,33 +124,42 @@ contents:
       layout: list
 
       no_event_message: >-
-        Nous sommes en train de choisir la prochaine date
+        Nous sommes en train de choisir la date du prochain chantier !
       title_link: ""
       events:
 
       quantity: 0
 
   - kind: block
-    template: form
-
-
+    template: contact
+    title: >-
+      Contacter Hervé, référent du GT
+    slug: >-
+      contacter-herve-referent-du-gt
     ranks:
       base: 2
+      self: 2
+      children: 3
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Contacter Hervé, référent du GT
+        heading: 2
 
     data:
-      url: >-
-        https://tally.so/r/dbWQer
-      form_title: >-
-        Contacter Hervé, référent du GT
-      form: 
-        platform: "tally"
-        identifier: "dbWQer"
-        iframe: >-
-          <iframe data-tally-src="https://tally.so/embed/dbWQer?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="100" frameborder="0" marginheight="0" marginwidth="0" title="Contacter Hervé, référent du GT"></iframe>
-        script: >-
-          <script src="https://tally.so/widgets/embed.js" onload="Tally.loadEmbeds()"></script>
+
+
+
+      contact_details:
+        emails:
+          list:
+            - label: >-
+                chantier-cinema@framagroupes.org
+              value: >-
+                mailto:chantier-cinema@framagroupes.org
+
+      timetable:
 
 
 
