@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/personnes/categories/fiction/index.html"
+to = "/personnes/categories/profils/fiction/"
+
+[[redirects]]
 from = "/2026-politique-et-ecosysteme/index.html"
 to = "/gt/2026-politique-et-ecosysteme/"
 
@@ -65,6 +69,10 @@ to = "/projections/archives-expositions/"
 [[redirects]]
 from = "/gt/aarse-06/index.html"
 to = "/gt/localisation/aarse-06/"
+
+[[redirects]]
+from = "/personnes/categories/documentaire/index.html"
+to = "/personnes/categories/profils/documentaire/"
 
 [[redirects]]
 from = "/agenda/2026/adieu-sauvage/projection-debat-againt-the-tide/index.html"
