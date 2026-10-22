@@ -1,15 +1,24 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
+- title: Qui sommes-nous ?
+  slug: qui-sommes-nous
+  target: "/lassociation/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/pages/lassociation"
+  file: content/fr/pages/lassociation/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
 - title: Groupes de travail
   slug: groupes-de-travail
   target: "/gt/"
