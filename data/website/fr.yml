@@ -1,37 +1,24 @@
 default:
 contents_reading_time:
-  seconds: 24
+  seconds: 11
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: call_to_action
-    title: >-
-      Cinéastes du Sud-Est, rejoignez nous
-    slug: >-
-      cineastes-du-sud-est-rejoignez-nous
+
+
     ranks:
       base: 2
-      self: 2
     top:
       active: true
-      title: 
-        value: >-
-          Cinéastes du Sud-Est, rejoignez nous
-        heading: 2
       description: >-
-        <p>Pour rencontrer les auteur·rices réalisateur·rices de votre région ⊹  Vous investir dans l'un des groupes de travail existant ⊹  Bénéficier d'ateliers, d'actions de formation ou de diffusion ⊹  Recevoir et partager les infos de la profession en région Sud (appels à projets, projections, formations...) ⊹  Partager vos projets et votre vision de l'association ⊹  Devenir correspondant·e dans votre ville ou votre département ⊹  Contribuer à donner du poids et des ressources à l'association  </p>
+        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.<br><a href="https://www.aarse.osuny.site/lassociation/" target="_blank" rel="noreferrer">En savoir plus <span class="sr-only">(lien externe)</span></a></p>
     data:
       layout: accent_background
       text: >-
-        <p>Pour rencontrer les auteur·rices réalisateur·rices de votre région ⊹  Vous investir dans l'un des groupes de travail existant ⊹  Bénéficier d'ateliers, d'actions de formation ou de diffusion ⊹  Recevoir et partager les infos de la profession en région Sud (appels à projets, projections, formations...) ⊹  Partager vos projets et votre vision de l'association ⊹  Devenir correspondant·e dans votre ville ou votre département ⊹  Contribuer à donner du poids et des ressources à l'association  </p>
+        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.<br><a href="https://www.aarse.osuny.site/lassociation/" target="_blank" rel="noreferrer">En savoir plus <span class="sr-only">(lien externe)</span></a></p>
       buttons:
-        - 
-          title: >-
-            Adhérer
-          url: >-
-            https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
-          target_blank: true
 
 
 
