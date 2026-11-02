@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 11
+  seconds: 21
   text: >-
     moins d'une minute
 contents:
@@ -19,6 +19,88 @@ contents:
       text: >-
         <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.<br><a href="https://www.aarse.osuny.site/lassociation/" target="_blank" rel="noreferrer">En savoir plus <span class="sr-only">(lien externe)</span></a></p>
       buttons:
+
+
+  - kind: block
+    template: contact
+    title: >-
+      Restez informé·es
+    slug: >-
+      restez-informe-es
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Restez informé·es
+        heading: 2
+
+    data:
+
+
+
+      contact_details:
+        emails:
+          list:
+            - label: >-
+                contact@aarse.fr
+              value: >-
+                mailto:contact@aarse.fr
+        social_networks:
+          facebook:
+            label: >-
+              aarsesud
+            value: >-
+              https://www.facebook.com/aarsesud
+          instagram:
+            label: >-
+              aarse_sud
+            value: >-
+              https://instagram.com/aarse_sud
+          mastodon:
+            label: >-
+              mastodon.social/@aarse_sud
+            value: >-
+              https://mastodon.social/@aarse_sud
+
+      timetable:
+
+
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+
+      layout: grid
+      options:
+        icons: false
+
+      links:
+        - 
+          title: >-
+            S'inscrire à la lettre d'infos
+
+          url: >-
+            aarse.fr
+          external: true
+
+        - 
+          title: >-
+            Il y a aussi la liste de diffusion du réseau
+
+          url: >-
+            https://framagroupes.org/sympa/subscribe/aarse-sud
+          external: true
+
 
 
 
