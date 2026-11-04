@@ -19,6 +19,10 @@ from = "/personnes/categories/fiction/index.html"
 to = "/personnes/categories/profils/fiction/"
 
 [[redirects]]
+from = "/personnes/xavier-ladjointe/index.html"
+to = "/membres/xavier-ladjointe/"
+
+[[redirects]]
 from = "/2026-politique-et-ecosysteme/index.html"
 to = "/gt/2026-politique-et-ecosysteme/"
 
@@ -47,12 +51,24 @@ from = "/agenda/localisation/marseille/index.html"
 to = "/agenda/localisation/aarse-13/marseille/"
 
 [[redirects]]
+from = "/personnes/index.html"
+to = "/membres/"
+
+[[redirects]]
 from = "/agenda/2026/adieu-sauvage/index.html"
 to = "/agenda/2026/vraidevrai-marseille-2026/"
 
 [[redirects]]
 from = "/agenda/aarse-06/index.html"
 to = "/agenda/localisation/aarse-06/nice/"
+
+[[redirects]]
+from = "/personnes/julie-aguttes/index.html"
+to = "/membres/julie-aguttes/"
+
+[[redirects]]
+from = "/personnes/gilles-bour/index.html"
+to = "/membres/gilles-bour/"
 
 [[redirects]]
 from = "/personnes/aarse/actualites/index.html"
@@ -71,6 +87,10 @@ from = "/personnes/categories/documentaire/index.html"
 to = "/personnes/categories/profils/documentaire/"
 
 [[redirects]]
+from = "/personnes/bernard-boespflug/index.html"
+to = "/membres/bernard-boespflug/"
+
+[[redirects]]
 from = "/agenda/localisation/nice/index.html"
 to = "/agenda/localisation/aarse-06/nice/"
 
@@ -83,8 +103,20 @@ from = "/ceci-est-un-test/index.html"
 to = "/aarse-06/"
 
 [[redirects]]
+from = "/personnes/herve-cohen/index.html"
+to = "/membres/herve-cohen/"
+
+[[redirects]]
 from = "/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/personnes/anne-alix/index.html"
+to = "/membres/anne-alix/"
+
+[[redirects]]
+from = "/personnes/zakia-ahasniou/index.html"
+to = "/membres/zakia-ahasniou/"
 
 [[redirects]]
 from = "/agenda/aarse-13/index.html"
