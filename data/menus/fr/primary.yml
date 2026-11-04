@@ -37,11 +37,4 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Adhérer
-  slug: adherer
-  target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
 
