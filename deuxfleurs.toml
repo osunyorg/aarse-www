@@ -16,7 +16,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/personnes/categories/fiction/index.html"
-to = "/personnes/categories/profils/fiction/"
+to = "/membres/categories/profils/fiction/"
 
 [[redirects]]
 from = "/personnes/xavier-ladjointe/index.html"
@@ -39,12 +39,24 @@ from = "/expositions/index.html"
 to = "/projections/"
 
 [[redirects]]
+from = "/personnes/categories/postes/index.html"
+to = "/membres/categories/postes/"
+
+[[redirects]]
+from = "/personnes/categories/localisation/alpes-maritimes-06/index.html"
+to = "/membres/categories/localisation/alpes-maritimes-06/"
+
+[[redirects]]
 from = "/personnes/aarse/index.html"
 to = "/personnes/elodie-boin-zanchi/"
 
 [[redirects]]
 from = "/2026-chantier-cinema/index.html"
 to = "/gt/2026-chantier-cinema/"
+
+[[redirects]]
+from = "/personnes/categories/localisation/index.html"
+to = "/membres/categories/localisation/"
 
 [[redirects]]
 from = "/agenda/localisation/marseille/index.html"
@@ -67,6 +79,10 @@ from = "/personnes/julie-aguttes/index.html"
 to = "/membres/julie-aguttes/"
 
 [[redirects]]
+from = "/personnes/categories/profils/index.html"
+to = "/membres/categories/profils/"
+
+[[redirects]]
 from = "/personnes/gilles-bour/index.html"
 to = "/membres/gilles-bour/"
 
@@ -75,16 +91,40 @@ from = "/personnes/aarse/actualites/index.html"
 to = "/personnes/elodie-boin-zanchi/actualites/"
 
 [[redirects]]
+from = "/personnes/categories/localisation/var-83/index.html"
+to = "/membres/categories/localisation/var-83/"
+
+[[redirects]]
+from = "/personnes/categories/adhesion/index.html"
+to = "/membres/categories/adhesion/"
+
+[[redirects]]
+from = "/personnes/categories/profils/fiction/index.html"
+to = "/membres/categories/profils/fiction/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/personnes/categories/postes/realisation/index.html"
+to = "/membres/categories/postes/realisation/"
+
+[[redirects]]
+from = "/personnes/categories/localisation/bouches-du-rhone-13/index.html"
+to = "/membres/categories/localisation/bouches-du-rhone-13/"
 
 [[redirects]]
 from = "/gt/aarse-06/index.html"
 to = "/gt/localisation/aarse-06/"
 
 [[redirects]]
+from = "/personnes/categories/profils/documentaire/index.html"
+to = "/membres/categories/profils/documentaire/"
+
+[[redirects]]
 from = "/personnes/categories/documentaire/index.html"
-to = "/personnes/categories/profils/documentaire/"
+to = "/membres/categories/profils/documentaire/"
 
 [[redirects]]
 from = "/personnes/bernard-boespflug/index.html"
@@ -107,8 +147,16 @@ from = "/personnes/herve-cohen/index.html"
 to = "/membres/herve-cohen/"
 
 [[redirects]]
+from = "/personnes/categories/college-solidaire/index.html"
+to = "/membres/categories/college-solidaire/"
+
+[[redirects]]
 from = "/archives-expositions/index.html"
 to = "/projections/archives-expositions/"
+
+[[redirects]]
+from = "/personnes/categories/postes/scenario/index.html"
+to = "/membres/categories/postes/scenario/"
 
 [[redirects]]
 from = "/personnes/anne-alix/index.html"
