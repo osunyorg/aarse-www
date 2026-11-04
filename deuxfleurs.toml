@@ -83,6 +83,10 @@ from = "/personnes/categories/profils/index.html"
 to = "/membres/categories/profils/"
 
 [[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/membres/equipe-editoriale/"
+
+[[redirects]]
 from = "/personnes/gilles-bour/index.html"
 to = "/membres/gilles-bour/"
 
