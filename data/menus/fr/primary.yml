@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: L'association
-  slug: l-association
+- title: À propos
+  slug: a-propos
   target: "/lassociation/"
   kind: page
   new_tab: false
