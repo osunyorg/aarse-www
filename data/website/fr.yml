@@ -31,6 +31,7 @@ contents:
       base: 2
       self: 2
       children: 3
+    html_class: "block-class-contact"
     top:
       active: true
       title: 
@@ -75,6 +76,7 @@ contents:
 
     ranks:
       base: 2
+    html_class: "block-class-liens"
     top:
       active: false
 
