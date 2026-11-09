@@ -1,5 +1,32 @@
-.page__home
-    h1
-        visibility: hidden
-        position: absolute
+body
+    letter-spacing: -0.05em
+
+header#document-header .primary-menu > .container
+    flex-flow: column
+    gap: 2rem
+    align-items: baseline
+
+    .menu
+        .nav-search
+            flex: 1
+            display: flex;
+            justify-content: end;
+
+.logo img
+    filter: brightness(0) saturate(100%) invert(10%) sepia(13%) saturate(1000%) hue-rotate(150deg) brightness(90%) contrast(95%)
+header#document-header .upper-menu
+    position: absolute
+    right: 0
+    .container
+        width: auto
+        margin: 0
+        li
+            padding-top: 2rem
+        a
+            font-size: .8rem
+            border-radius: 30px !important
+            padding: 12px 20px !important
+            border: 1px var(--color-text) solid
+
+    
 

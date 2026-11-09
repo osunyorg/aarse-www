@@ -1,0 +1,61 @@
+.posts__page,
+    @include media-breakpoint-up(desktop)
+        .section-sidebar
+            position: relative !important
+            padding-left: offset(2)
+            width: columns(10) !important
+            margin-bottom: $spacing-5
+            padding-top: $spacing-5
+            .toc-container
+                padding-top: $spacing-2 !important
+                width: 100%
+                .toc-title
+                    position: absolute
+                .toc-pages
+                    border-bottom: 1px solid var(--color-border)
+                    padding-bottom: $spacing-3
+                    ol
+                        align-items: end
+                        padding-left: pxToRem(160)
+                        text-align: right
+                        li:first-child
+                            margin-top: pxToRem(5)
+.blocks
+    @include in-page-with-sidebar
+        // Blocs 2/8/2
+        .heading h2,
+        .block-chapter .block-content,
+        .block-contact .block-content,
+        .block-datatable .block-content,
+        .block-definitions .block-content,
+        .block-files .block-content,
+        .block-image .block-content,
+        .block-testimonials .block-content,
+        .block-license .block-content,
+        .block-organizations .block-content,
+        .block-pages .block-content,
+        .block-persons .block-content,
+        .block-video .block-content
+            padding-left: offset(2) !important
+            width: columns(10)
+        .block-image figure
+            img
+                margin-left: auto
+                margin-right: auto
+        // Blocs pleine largeur
+        .block-gallery .block-content
+            padding-left: 0 !important
+            width: 100%
+        // Réglages
+        .block-gallery
+            &--grid
+                .gallery
+                    // Remettre en 4 colonnes
+                    @include flexbox-grid(4)
+                    // Dernière ligne centrée
+                    justify-content: center
+
+// Navigation full width
+.block-siblings-navigation
+    .block-content
+        padding-left: 0 !important

@@ -1,13 +1,33 @@
-theme: osuny
+theme: 
+  - osuny
+  - osuny-plugin-centered-layout
 _merge: deep
 params:
-  summary:
-    position: hero
   search:
     active: true
+    positions:
+      - primary
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logoapp.svg'
+    footer: '/assets/images/icone.svg'
+  breadcrumb:
+    extendable: false
+    position: none
   home:
     head:
       title: site
+  persons:
+    contact_details:
+      with_labels: true
+    index:
+      layout: list # grid | list
+  
+  image_sizes:
+      sections:
+        events:
+          hero_single:
+            landscape:
+            square:
+              mobile:   400
+              tablet:   1000
+              desktop:  1920

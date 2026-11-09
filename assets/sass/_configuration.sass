@@ -1,13 +1,40 @@
-$heading-font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif
-$body-font-family: $heading-font-family
-
-$header-background: white
-$header-border-bottom-width: 0
-$hero-background-color: none
-$footer-background-color: none
-$color-accent: #e88e74 !default
-$btn-hover-color: $color-accent !default
-$btn-hover-border: pxToRem(1) solid var(--color-accent) !default
+// $grid-breakpoints: (xs: 0, sm: 576px, md: 768px, desktop: 992px, lg: 992px, xl: 1200px, xxl: 1440px, xxxl: 1600px) !default
 
 
-$block-gallery-carousel-background: var(--color-background) !default
+// FONTS
+// Body
+$body-font-family: "WorkSans", "Helvetica", "Arial", sans-serif
+$body-weight: 450 !default
+// $body-letter-spacing: -0.04em !default
+$body-size-desktop: pxToRem(20) !default
+// Headings
+$heading-font-family: "WorkSans", "Helvetica", "Arial", sans-serif
+$heading-font-weight: 600 !default
+// Meta
+$meta-size-desktop: pxToRem(17) !default
+
+// COLORS
+$color-background: #FDF8D4  !default 
+// #F8F4EC #FDF8D4
+$color-text: #292D2B !default
+// #192022 #292D2B
+$color-accent: #F6464F !default
+// #FF4933 #F6464F
+$color-background-alt: #FBF6CB !default
+// #CCC2B2
+
+// COMPONENTS
+// Header
+$header-color: var(--color-text) !default
+$header-hover-color: var(--color-accent) !default // ne fonctionne pas
+$header-background: var(--color-background) !default
+$header-border-bottom-width: 0 !default
+$header-logo-height-desktop: 93px !default
+$header-nav-padding-desktop: pxToRem(60) !default
+// Hero
+$hero-background-color: var(--color-background) !default
+// Footer
+$footer-background-color: var(--color-background) !default
+// CTA
+$block-call-to-action-accent-background: var(--color-text) !default
+$block-call-to-action-accent-color: var(--color-background) !default
