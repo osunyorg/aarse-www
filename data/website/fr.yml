@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 21
+  seconds: 22
   text: >-
     moins d'une minute
 contents:
@@ -44,12 +44,6 @@ contents:
 
 
       contact_details:
-        emails:
-          list:
-            - label: >-
-                contact@aarse.fr
-              value: >-
-                mailto:contact@aarse.fr
         social_networks:
           facebook:
             label: >-
@@ -92,7 +86,7 @@ contents:
             S'inscrire à la lettre d'infos
 
           url: >-
-            aarse.fr
+            https://1e3b5cbb.sibforms.com/serve/MUIFABSsa6SjTlmtLj9ll-8QvdLOd2SQ33uGID_9YHrEkVLEBS47KFWByyrnVDmmbm7KCfqaLpKJFeOreWWm-V45gF5OdgGA-a41t0DspHrSOATrz9mrdNW7OLZUcrGlD4CXtCkj57RXKMDismLeqx4IPb5VjLSk8cOQEVJxXi71jauQldYbszOt1w_BwkFlTTSy9YIc8qmmVDk9
           external: true
 
         - 
