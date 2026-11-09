@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 22
+  seconds: 21
   text: >-
     moins d'une minute
 contents:
@@ -91,7 +91,7 @@ contents:
 
         - 
           title: >-
-            Il y a aussi la liste de diffusion du réseau
+            La liste de diffusion du réseau
 
           url: >-
             https://framagroupes.org/sympa/subscribe/aarse-sud
