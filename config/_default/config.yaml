@@ -26,8 +26,8 @@ params:
       sections:
         events:
           hero_single:
-            landscape:
             square:
               mobile:   400
               tablet:   1000
               desktop:  1920
+          

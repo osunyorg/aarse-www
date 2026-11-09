@@ -5,7 +5,7 @@
         .container
             display: none
         
-    .block-agenda--list
+    .block-agenda--grid
         .block-title a
             @include icon(calendar-2-line, before, true)
             font-size: 0
@@ -16,12 +16,14 @@
             &::before
                 font-family: 'Icon'
                 font-size: 1.5rem
-
+        .event-schedule
+            flex-flow: column
+            
     @include media-breakpoint-up(md)
         .block-agenda--large
             .container
-                padding-right: 0
-                padding-left: 0
+                padding-right: var(--grid-gutter)
+                padding-left: var(--grid-gutter)
             .event
                 position: relative
                 width: 100%
