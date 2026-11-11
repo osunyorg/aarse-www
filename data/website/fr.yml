@@ -25,9 +25,9 @@ contents:
   - kind: block
     template: contact
     title: >-
-      Restez informé·es
+      Suivez toute notre actualité
     slug: >-
-      restez-informe-es
+      suivez-toute-notre-actualite
     ranks:
       base: 2
       self: 2
@@ -37,7 +37,7 @@ contents:
       active: true
       title: 
         value: >-
-          Restez informé·es
+          Suivez toute notre actualité
         heading: 2
 
     data:
