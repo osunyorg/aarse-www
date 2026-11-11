@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 21
+  seconds: 25
   text: >-
     moins d'une minute
 contents:
@@ -14,12 +14,24 @@ contents:
     top:
       active: true
       description: >-
-        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.<br><a href="https://www.aarse.osuny.site/lassociation/" target="_blank" rel="noreferrer">En savoir plus <span class="sr-only">(lien externe)</span></a></p>
+        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.</p>
     data:
       layout: accent_background
       text: >-
-        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.<br><a href="https://www.aarse.osuny.site/lassociation/" target="_blank" rel="noreferrer">En savoir plus <span class="sr-only">(lien externe)</span></a></p>
+        <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.</p>
       buttons:
+        - 
+          title: >-
+            Adhérer
+          url: >-
+            https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
+          target_blank: true
+        - 
+          title: >-
+            En savoir plus
+          url: >-
+            http://localhost:1313/lassociation/
+          target_blank: false
 
 
   - kind: block
