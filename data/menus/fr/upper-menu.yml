@@ -1,13 +1,6 @@
 ---
 title: Adhésions
 items:
-- title: Contact
-  slug: contact
-  target: mailto:contact@aarse.fr
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
 - title: Devenir membre
   slug: devenir-membre
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
