@@ -131,6 +131,10 @@ from = "/personnes/categories/documentaire/index.html"
 to = "/membres/categories/profils/documentaire/"
 
 [[redirects]]
+from = "/lassociation/index.html"
+to = "/apropos/"
+
+[[redirects]]
 from = "/personnes/bernard-boespflug/index.html"
 to = "/membres/bernard-boespflug/"
 
