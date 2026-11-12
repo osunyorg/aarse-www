@@ -8,8 +8,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Devenir membre
-  slug: devenir-membre
+- title: Adhérer
+  slug: adherer
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
   kind: url
   new_tab: true
