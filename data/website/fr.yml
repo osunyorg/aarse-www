@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 25
+  seconds: 23
   text: >-
     moins d'une minute
 contents:
@@ -20,12 +20,6 @@ contents:
       text: >-
         <p>  L'Aarse fédère les cinéastes du Sud-Est, pour la défense d'une création audiovisuelle indépendante en région Sud et des conditions de travail de ceux et celles qui la font. Depuis 2001.</p>
       buttons:
-        - 
-          title: >-
-            Adhérer
-          url: >-
-            https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2026
-          target_blank: true
         - 
           title: >-
             En savoir plus
@@ -96,7 +90,7 @@ contents:
       links:
         - 
           title: >-
-            S'inscrire à la lettre d'infos
+            S'inscrire à la newsletter
 
           url: >-
             https://1e3b5cbb.sibforms.com/serve/MUIFABSsa6SjTlmtLj9ll-8QvdLOd2SQ33uGID_9YHrEkVLEBS47KFWByyrnVDmmbm7KCfqaLpKJFeOreWWm-V45gF5OdgGA-a41t0DspHrSOATrz9mrdNW7OLZUcrGlD4CXtCkj57RXKMDismLeqx4IPb5VjLSk8cOQEVJxXi71jauQldYbszOt1w_BwkFlTTSy9YIc8qmmVDk9
@@ -104,7 +98,7 @@ contents:
 
         - 
           title: >-
-            La liste de diffusion du réseau
+            Il y a aussi la liste de diffusion du réseau
 
           url: >-
             https://framagroupes.org/sympa/subscribe/aarse-sud
