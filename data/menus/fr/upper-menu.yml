@@ -1,8 +1,8 @@
 ---
 title: Adhésions
 items:
-- title: Contact
-  slug: contact
+- title: Nous contacter
+  slug: nous-contacter
   target: mailto:contact@aarse.fr
   kind: url
   new_tab: false
